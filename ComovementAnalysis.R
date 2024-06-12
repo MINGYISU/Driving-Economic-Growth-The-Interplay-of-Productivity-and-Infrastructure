@@ -1,4 +1,4 @@
-source("SeasonalAnalysis")
+source("SeasonalAnalysis.R")
 
 # Part C Analyze the comovements between two series
 
